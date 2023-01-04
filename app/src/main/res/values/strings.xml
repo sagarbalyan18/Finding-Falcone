@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finding Falcone</string>
+    <string name="btn_find_princes">Find Princess</string>
+    <string name="speed_title">Speed:</string>
+    <string name="nothing_to_select">Nothing To Select</string>
+    <string name="princes_found_on">Congratulations! Princess found on %s</string>
+    <string name="princes_not_found">Princess not found</string>
+</resources>
